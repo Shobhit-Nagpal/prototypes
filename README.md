@@ -14,3 +14,4 @@ Prototypes to learn cool stuff and concepts
 - [] gRPC
 - [] JSON parser from scratch
 - [] HTTP request parser
+- [] JWT implementation from scratch

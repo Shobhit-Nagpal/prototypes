@@ -16,3 +16,5 @@ Prototypes to learn cool stuff and concepts
 - [] HTTP request parser
 - [] JWT implementation from scratch
 - [] CLI tool to generate tracer IDs for functions/methods when you pass in a JS/TS file
+- [] Mini UI framework
+- [] Runtime

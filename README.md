@@ -18,3 +18,4 @@ Prototypes to learn cool stuff and concepts
 - [] CLI tool to generate tracer IDs for functions/methods when you pass in a JS/TS file
 - [] Mini UI framework
 - [] Runtime
+- [] Mini build system

@@ -19,3 +19,4 @@ Prototypes to learn cool stuff and concepts
 - [] Mini UI framework
 - [] Runtime
 - [] Mini build system
+- [] CLI tool to schedule calcom meetings

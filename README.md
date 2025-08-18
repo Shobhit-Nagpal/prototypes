@@ -4,8 +4,8 @@ Prototypes to learn cool stuff and concepts
 
 > Note to self: This is only for learning purpose, don't make it into a side project and get caught in that loop. _Learn the concepts_
 
-- [x] Real-time activity monitor with Redis streaming [repo](github.com/Shobhit-Nagpal/real-time-activity-monitor-prototype)
-- [x] Kafka (pubs) [repo](github.com/Shobhit-Nagpal/pubsub-prototype)
+- [x] Real-time activity monitor with Redis streaming [repo](https://github.com/Shobhit-Nagpal/real-time-activity-monitor-prototype)
+- [x] Kafka (pubs) [repo](https://github.com/Shobhit-Nagpal/pubsub-prototype)
 - [] System monitor (htop remake basically)
 - [] BNF grammar to parse time specification + Parser for this grammar (one using a PEG parser, one with a scripting language) (Ref: Pragmatic Programmer book)
 - [] Payment system backend prototype [Ref: Sunny Gupta's blog](https://x.com/sunnykgupta/status/1919369678918402484)

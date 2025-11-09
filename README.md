@@ -10,7 +10,7 @@ Prototypes to learn cool stuff and concepts
 - [] BNF grammar to parse time specification + Parser for this grammar (one using a PEG parser, one with a scripting language) (Ref: Pragmatic Programmer book)
 - [] Payment system backend prototype [Ref: Sunny Gupta's blog](https://x.com/sunnykgupta/status/1919369678918402484)
 - [] In-place terminal manipulation with ANSI escape codes
-- [] Proxy server
+- [x] Proxy server [repo](https://github.com/Shobhit-Nagpal/proxy)
 - [] gRPC
 - [] JSON parser from scratch
 - [] HTTP request parser

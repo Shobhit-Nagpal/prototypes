@@ -20,6 +20,7 @@ Prototypes to learn cool stuff and concepts
 - [] Runtime
 - [] Mini build system
 - [] CLI tool to schedule calcom meetings
+- [] Sonification
 
 ## Implement from papers
 - [] Bloom filter
